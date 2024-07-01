@@ -56,9 +56,9 @@ To get started with the Degen Token contract, you'll need to have the following 
 
 2. Create a New Solidity File: In the "File Explorer" pane on the left, click the "+" button to create a new file.
 
-3. Name your file DegenToken.sol
+3. Name your file GamingToken.sol
 
-4. Copy and paste the following code into DegenToken.sol File
+4. Copy and paste the following code into GamingToken.sol File
 
 5. Compile the contract using the Solidity compiler in Remix.
    
